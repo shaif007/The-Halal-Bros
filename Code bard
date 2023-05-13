@@ -1,0 +1,54 @@
+HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Halal Bros</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Halal Bros</h1>
+<p>Quality at a price you can afford</p>
+</header>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Shop</a></li>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Contact Us</a></li>
+</ul>
+</nav>
+<main>
+<section id="home">
+<h2>Welcome to Halal Bros</h2>
+<p>We are a clothing brand that is committed to providing our customers with stylish and affordable clothing. We believe that everyone should be able to dress their best, regardless of their budget or religious beliefs.</p>
+<p>Our clothing is made from high-quality materials and is designed to be both comfortable and stylish. We offer a wide variety of styles to choose from, so you can find the perfect design for yourself. We also offer a variety of sizes to choose from, so you can find the perfect fit for your body type.</p>
+<p>We are committed to providing our customers with the best possible shopping experience. We offer free shipping on all orders over 1000TK and we have a 100% satisfaction guarantee.</p>
+<p>We hope you will visit our website and check out our selection of clothing. We are confident that you will find something you love.</p>
+</section>
+<section id="shop">
+<h2>Shop</h2>
+<p>We offer a wide variety of clothing for men, women, and children. We have everything from casual wear to formal wear, so you can find the perfect outfit for any occasion.</p>
+<p>We also offer a variety of accessories, such as hats, scarves, and jewelry. So you can complete your look with a touch of style.</p>
+<p>Our clothing is made from high-quality materials and is designed to be both comfortable and stylish. So you can look and feel your best.</p>
+<p>We are committed to providing our customers with the best possible shopping experience. We offer free shipping on all orders over 1000TK and we have a 100% satisfaction guarantee.</p>
+<p>So what are you waiting for? Visit our website today and start shopping!</p>
+</section>
+<section id="about-us">
+<h2>About Us</h2>
+<p>Halal Bros was founded in 2023 by three friends who were passionate about fashion and creating stylish and affordable clothing for everyone. We believe that everyone should be able to dress their best, regardless of their budget or religious beliefs.</p>
+<p>Our clothing is made from high-quality materials and is designed to be both comfortable and stylish. We offer a wide variety of styles to choose from, so you can find the perfect design for yourself. We also offer a variety of sizes to choose from, so you can find the perfect fit for your body type.</p>
+<p>We are committed to providing our customers with the best possible shopping experience. We offer free shipping on all orders over 1000TK and we have a 100% satisfaction guarantee.</p>
+<p>We are excited to see what the future holds for Halal Bros. We are confident that we will continue to grow and expand our business. We are also excited to continue to provide our customers with stylish and affordable clothing that they love.</p>
+</section>
+<section id="contact-us">
+<h2>Contact Us</h2>
+<p>If you have any questions or comments, please feel free to contact us. We would love to hear from you.</p>
+<p>You can contact us by email at info@halalbros.com or by phone at +880 17 23 45 6789.</p>
+</section>
+</main>
+<footer>
+<p>Copyright &copy; 2023 Halal Bros</p>
+</footer>
+</body>
+</html>
